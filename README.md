@@ -3,7 +3,7 @@
 🔹 Estudante de **Cybersegurança na Anhanguera**  
 🔹 Apaixonado por **hacking, segurança ofensiva e defensiva**  
 🔹 **Red Team & Blue Team**  
-🔹 **Python | Go**  
+🔹 **Python | AI **  
 
 ## 📫 Contato  
 
