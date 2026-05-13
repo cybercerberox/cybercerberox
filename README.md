@@ -5,8 +5,5 @@
 🔹 **Red Team & Blue Team**  
 🔹 **Python | AI **  
 
-## 📫 Contato  
-
-📧 **E-mail:** [devcerberox@gmail.com]  
 
 *"A única maneira de realmente proteger a privacidade das pessoas é garantir que elas saibam o que está acontecendo."* – **Edward Snowden** 🕵️‍♂️💻  
