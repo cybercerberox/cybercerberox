@@ -1,9 +1,7 @@
-# 🛡️ Isaac | Cybersecurity & Hacking  
+# 🛡️ Isaac | Inteligencia Artifical  | Cybersecurity
 
-🔹 Estudante de **Cybersegurança na Anhanguera**  
-🔹 Apaixonado por **hacking, segurança ofensiva e defensiva**  
-🔹 **Red Team & Blue Team**  
+🔹 Estudante de **Inteligência Artifical - PIT**  
 🔹 **Python | AI **  
+🔹 Apaixonado por **hacking, segurança ofensiva e defensiva**  *  
 
-
-*"A única maneira de realmente proteger a privacidade das pessoas é garantir que elas saibam o que está acontecendo."* – **Edward Snowden** 🕵️‍♂️💻  
+*"A única maneira de realmente proteger a privacidade das pessoas é garantir que elas saibam o que está acontecendo."* – **Edward Snowden**   
