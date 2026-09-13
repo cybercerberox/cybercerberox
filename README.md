@@ -1,4 +1,4 @@
-# 🛡️ Isaac | Inteligencia Artifical  | Cybersecurity
+# 🛡️ Isaac | Inteligência Artifical  | Cybersecurity
 
 🔹 Estudante de **Inteligência Artifical - PIT**  
 🔹 **Python | AI **  
